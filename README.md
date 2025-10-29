@@ -6,13 +6,14 @@ Proof of concept query viewer (`@pages` only). Views: list, card, masonry.
 
 ## To do
 
-- [ ] Search in file content (add support for Obsidian search query syntax).
-- [ ] Strip all syntax in text snippet (like [Notebook Navigator](https://notebooknavigator.com/) and [First Line is Title](https://github.com/greetclammy/first-line-is-title) do).
+- [ ] Search in file content (support for Obsidian search query syntax, like [Note Gallery](https://github.com/pashashocky/obsidian-note-gallery)).
+- [ ] Strip all syntax in text snippet (like [Notebook Navigator](https://github.com/johansan/notebook-navigator/) and [First Line is Title](https://github.com/greetclammy/first-line-is-title)).
 - [ ] Add option to skip first line in description (sub-option: only if it's heading).
 - [ ] Highlight card on hover (show outline or enlarge it).
 - [ ] Change image on hover over thumbnail (for notes with multiple image embeds, not slideshow).
 - [ ] Add ability to limit number of results (like in Bases).
+- [ ] Add ability to copy links to all results to clipboard (like in Bases).
 - [ ] Add table view.
 - [ ] Add feed view.
 - [ ] Fix setting text fields showing custom outline instead of Obsidian default.
-- [ ] Show tags/path and text snippet in List view.
+- [x] Show tags/path and text snippet in List view.
