@@ -1,1 +1,1 @@
-# datacore-navigator
+# Datacore Explorer
