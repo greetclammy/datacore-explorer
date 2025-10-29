@@ -1,8 +1,19 @@
 # Datacore Explorer
 
-Proof of concept query viewer (`@pages` only). Views: list, card, masonry.
+Proof of concept query viewer. 
 
 <img width="1156" height="935" alt="Screenshot 2025-10-29 at 06 45 53" src="https://github.com/user-attachments/assets/74aa4f21-50da-4c43-8464-ca9e4fbecc3b" />
+
+## Views
+
+- List
+- Card
+- Masonry
+
+## Notes
+
+- `@pages` is implicitly added to each user query — need not add it yourself.
+- For the viewer to take up the whole viewport width, disable readable line length, or use `max` helper class with a theme that supports Minimal's [helper classes](https://minimal.guide/features/helper-classes).
 
 ## To do
 
