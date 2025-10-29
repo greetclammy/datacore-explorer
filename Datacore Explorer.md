@@ -1,15 +1,3 @@
----
-created: 2025-10-28T16:55+03:00
-tags:
-cssclasses:
-  - max
-  - hide-yaml
-title: ​return function View() {​
-disabled rules:
-  - all
-no rename: true
----
-
 ```datacorejsx
 return function View() {
     // Load persisted values from localStorage
