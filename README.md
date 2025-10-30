@@ -18,6 +18,7 @@ Proof of concept [Datacore](https://obsidian.md/plugins?id=datacore) query viewe
 - Press Ctrl/Cmd when hovering over card to bring up page preview.
 - Hover over GIF thumbnails to animate them.
 - Press on thumbnail to enlarge it (if [Image Toolkit](https://obsidian.md/plugins?id=obsidian-image-toolkit) or a snippet is enabled).
+- Search bar filters filenames and #tags (use -#tag to exclude).
 
 ## 🗺️ Roadmap
 
