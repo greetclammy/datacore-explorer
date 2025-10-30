@@ -10,10 +10,11 @@ Proof of concept query viewer.
 - Card
 - Masonry
 
-## Notes
+## Tips
 
 - `@pages` is implicitly added to each user query — need not add it yourself.
 - For the viewer to take up the whole viewport width, disable readable line length, or use `max` helper class with a theme that supports Minimal's [helper classes](https://minimal.guide/features/helper-classes).
+- File path and tags are horizontally scrollable!
 
 ## To do
 
