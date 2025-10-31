@@ -23,4 +23,4 @@ View [Datacore](https://obsidian.md/plugins?id=datacore) @page queries in multip
 - Search bar filters filenames and #tags (use -#tag to exclude).
 
 <br>
-<p align="center"><b>To not miss further updates, press Watch > Custom > Releases at the top of the repo.</b></p>
+<p align="center"><b>To keep up with updates, press Watch > Custom > Releases at the top of the repo.</b></p>
