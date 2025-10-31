@@ -10,6 +10,7 @@ View [Datacore](https://obsidian.md/plugins?id=datacore) @page queries in multip
 
 #### List
 
+
 ## 💡 Tips
 
 - `@pages` is implicitly added to each query — need not add it yourself.
@@ -20,3 +21,6 @@ View [Datacore](https://obsidian.md/plugins?id=datacore) @page queries in multip
 - Card title can be drag and dropped to another note or tab container.
 - Press on thumbnail to enlarge it (if [Image Toolkit](https://obsidian.md/plugins?id=obsidian-image-toolkit) or a snippet is enabled).
 - Search bar filters filenames and #tags (use -#tag to exclude).
+
+<br>
+<p align="center"><b>To not miss further updates, press Watch > Custom > Releases at the top of the repo.</b></p>
