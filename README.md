@@ -13,14 +13,15 @@ View [Datacore](https://obsidian.md/plugins?id=datacore) @page queries in multip
 
 ## 💡 Tips
 
-- `@pages` is implicitly added to each query — need not add it yourself.
+- `@pages and` is automatically added to each query — need not additionally add it.
 - Press Ctrl/Cmd when hovering over card to bring up page preview.
-- Hover over thumbnails which cast a shadow to view up to the first seven images in note, or to animate GIFs.
+- Hover over thumbnails with shadow to view up to first seven image embed in note, or to animate GIFs.
 - Right click or long press on card title to open link context menu.
 - Card title can be drag and dropped to another note or tab container.
-- Press on thumbnail to enlarge it (if [Image Toolkit](https://obsidian.md/plugins?id=obsidian-image-toolkit) or a snippet is enabled).
-- The search filter accepts #tags (use -#tag to exclude).
-- File path and tags in cards are horizontally scrollable!
+- Press on thumbnail to enlarge it (if [Image Toolkit](https://obsidian.md/plugins?id=obsidian-image-toolkit) or snippet is enabled).
+- Search filter accepts #tags (use -#tag to exclude).
+- File path and tags in cards are horizontally scrollable.
+- In case of errors, edit query at top of code block in Source view.
 
 <br>
 <p align="center"><b>To keep up with updates, press Watch > Custom > Releases at the top of the repo.</b></p>
