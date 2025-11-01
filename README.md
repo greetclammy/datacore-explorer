@@ -13,7 +13,7 @@ View [Datacore](https://obsidian.md/plugins?id=datacore) @page queries in multip
 
 ## 💡 Tips
 
-- `@pages and` is automatically prepended to each query — need not additionally add it.
+- `@pages and` is automatically prepended to each query — need not add it in query editor.
 - Press Ctrl/Cmd when hovering over card to bring up page preview.
 - Hover over thumbnails that have shadow to view up to first seven images in note, or to animate GIFs.
 - Right click (long press on mobile) on card title to open link context menu.
