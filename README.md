@@ -19,7 +19,7 @@ The plugin only does two things:
 1. Creates a note with Datacore Explorer in vault root when the plugin is updated.
 2. Adds a command to the Command pallette to create a note with Datacore Explorer.
 
-Alternatively, get notified about new releases: press Watch > Custom > Releases at the top of the repo. (Yuo can configure these notifications to be emailed.)
+Alternatively, get notified about new releases: press Watch > Custom > Releases at the top of the repo. (You can configure these notifications to be emailed.)
 
 ## 💡 Tips
 
