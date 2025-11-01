@@ -10,6 +10,16 @@ View [Datacore](https://obsidian.md/plugins?id=datacore) @page queries in multip
 
 #### List
 
+## ✅ Get updates
+
+Datacore Explorer is a work in progress. To keep up with updates, install a companion plugin by entering this repo's URL in [BRAT](https://obsidian.md/plugins?id=obsidian42-brat) settings > Add beta plugin.
+
+The plugin only does two things:
+
+1. Creates a note with Datacore Explorer in vault root when the plugin is updated.
+2. Adds a command to the Command pallette to create a note with Datacore Explorer.
+
+Alternatively, get notified about new releases: press Watch > Custom > Releases at the top of the repo. (Yuo can configure these notifications to be emailed.)
 
 ## 💡 Tips
 
@@ -25,5 +35,4 @@ View [Datacore](https://obsidian.md/plugins?id=datacore) @page queries in multip
 - Explore settings to configure things to your liking.
 - Cards can be keyboard navigated with arrows keys.
 
-<br>
-<p align="center"><b>To keep up with updates, press Watch > Custom > Releases at the top of the repo.</b></p>
+
