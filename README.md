@@ -22,6 +22,7 @@ View [Datacore](https://obsidian.md/plugins?id=datacore) @page queries in multip
 - Search filter accepts #tags (use -#tag to exclude).
 - File path and tags in cards are horizontally scrollable.
 - In case of errors, edit your query at top of code block in Source view.
+- Explore settings to configure things to your liking.
 
 <br>
 <p align="center"><b>To keep up with updates, press Watch > Custom > Releases at the top of the repo.</b></p>
